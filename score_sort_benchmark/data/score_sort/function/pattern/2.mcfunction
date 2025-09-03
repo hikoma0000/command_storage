@@ -1,0 +1,13 @@
+scoreboard players set $1 score_sort 1
+scoreboard players set $2 score_sort 2
+scoreboard players set $3 score_sort 3
+scoreboard players set $5 score_sort 5
+scoreboard players set $8 score_sort 8
+scoreboard players set $100 score_sort 100
+scoreboard players set $500 score_sort 500
+scoreboard players set $1000 score_sort 1000
+scoreboard players set $5000 score_sort 5000
+scoreboard players set $5001 score_sort 5001
+scoreboard players set $2000000000 score_sort 2000000000
+scoreboard players set $2000000001 score_sort 2000000001
+scoreboard players set $2147483647 score_sort 2147483647
