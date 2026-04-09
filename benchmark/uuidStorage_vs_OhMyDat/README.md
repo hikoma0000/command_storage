@@ -11,4 +11,9 @@
 
 ### 結果
 [OhMyDatの結果](https://github.com/hikoma0000/command_storage/blob/main/benchmark/uuidStorage_vs_OhMyDat/result_oh_my_dat.json)
+
 [UUIDstorageの結果](https://github.com/hikoma0000/command_storage/blob/main/benchmark/uuidStorage_vs_OhMyDat/result_uuid_storage.json)
+
+<img width="509" height="271" alt="image" src="https://github.com/user-attachments/assets/711d5019-f406-44ba-a1a3-fb48df6c8ff7" />
+
+<img width="506" height="273" alt="image" src="https://github.com/user-attachments/assets/69f4b8c5-68dd-4d07-8146-af231f8d87fc" />
