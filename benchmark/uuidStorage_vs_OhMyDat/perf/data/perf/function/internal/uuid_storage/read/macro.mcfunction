@@ -1,1 +1,0 @@
-$data get storage perf:uuid_storage _."$(uuid)".Data
