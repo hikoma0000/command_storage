@@ -1,0 +1,1 @@
+$data modify storage perf:uuid_storage _."$(uuid)".Data set value {fuga:1, hoge:[{fuga:"test", hoge:[{}]}]}
