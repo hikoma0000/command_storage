@@ -17,3 +17,7 @@
 <img width="509" height="271" alt="image" src="https://github.com/user-attachments/assets/711d5019-f406-44ba-a1a3-fb48df6c8ff7" />
 
 <img width="506" height="273" alt="image" src="https://github.com/user-attachments/assets/69f4b8c5-68dd-4d07-8146-af231f8d87fc" />
+
+ちなみにinitの結果は
+
+<img width="519" height="276" alt="image" src="https://github.com/user-attachments/assets/76c9b92f-7ff8-4145-9ae4-68b83743e2a8" />
